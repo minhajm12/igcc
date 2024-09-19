@@ -307,6 +307,9 @@
 }
 
 @media only screen and (max-width: 768px){
+  #header .navbar-brand .logo img{
+    width: 85%;
+  }
   .main-padding{
     padding-left: 4% !important;
     padding-right: 4% !important;
