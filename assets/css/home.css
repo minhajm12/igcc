@@ -294,6 +294,17 @@
     display: flex;
     flex-direction: column;
 }
+#blogs_section .blog-item:hover img{
+    transform: scale(1.1);
+}
+#blogs_section .blog-item .img-div{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+#blogs_section .blog-item .img-div img{
+    transition: .3s ease;
+}
 #blogs_section .blog-item .blog-content{
     display: flex;
     flex-direction: column;

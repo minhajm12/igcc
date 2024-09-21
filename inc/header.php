@@ -1,7 +1,7 @@
 <div class="header main-padding" id="header">
     <nav class="navbar navbar-expand-lg">
         <div class="container-fluid p-0">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="index.php">
                 <div class="logo" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="0">
                     <img src="assets/img/logo/logo-main.svg" alt="" class="img-fluid">
                 </div>
@@ -23,24 +23,24 @@
                     <div class="justify-content-end" id="">
                         <ul class="navbar-nav">
                             <li class="nav-item" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="400">
-                                <a class="nav-link p-0" href="#">Home</a>
+                                <a class="nav-link p-0" href="index.php">Home</a>
                             </li>
                             <li class="nav-item" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="300">
                                 <a class="nav-link p-0" href="about.php">About</a>
                             </li>
                             <li class="nav-item" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
-                                <a class="nav-link p-0" href="#">Reports</a>
+                                <a class="nav-link p-0" href="reports.php">Reports</a>
                             </li>
                             <li class="nav-item" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
-                                <a class="nav-link p-0" href="#">Services</a>
+                                <a class="nav-link p-0" href="services.php">Services</a>
                             </li>
                             <li class="nav-item" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
-                                <a class="nav-link p-0" href="#">Course</a>
+                                <a class="nav-link p-0" href="course.php">Course</a>
                             </li>
                             <li class="nav-item" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
-                                <a class="nav-link p-0" href="#">Contact</a>
+                                <a class="nav-link p-0" href="contact.php">Contact</a>
                             </li>
-                            <a class="main-btn d-lg-none d-block" href="">Verify Report</a>
+                            <a class="main-btn d-lg-none d-block" href="verify-report.php">Verify Report</a>
                         </ul>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
                     aria-controls="offcanvasResponsive" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="300">
                     <img src="assets/img/svg/menu-bar.svg" alt="">
                 </button>
-                <a class="main-btn d-md-block d-none" href="">verify report</a>
+                <a class="main-btn d-md-block d-none" href="verify-report.php">verify report</a>
             </div>
 
 

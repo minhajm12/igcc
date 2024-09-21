@@ -239,6 +239,12 @@
 
 
 
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+
 
 
   @media screen and (max-width: 1536px){
@@ -349,6 +355,10 @@
   }
   #footer_section ul {
     gap: 5px;
+}
+#footer_section .newsletter-section form{
+  padding: 0 5px;
+  width: 90%;
 }
 
 

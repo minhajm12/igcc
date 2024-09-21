@@ -3,9 +3,11 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-12 column-1">
                 <div class="d-flex flex-column gap-md-5 gap-4">
-                    <div class="footer-logo-div">
-                        <img src="assets/img/logo/logo-main.svg" alt="" class="img-fluid" width="280px">
-                    </div>
+                    <a href="index.php">
+                        <div class="footer-logo-div">
+                            <img src="assets/img/logo/logo-main.svg" alt="" class="img-fluid" width="280px">
+                        </div>
+                    </a>
                     <div class="newsletter-section">
                         <h6>Join Our Newsletter</h6>
                         <p>Be update with our news and updates</p>
@@ -23,25 +25,25 @@
                     <h5>Quick Links</h5>
                     <ul class="p-0">
                         <li>
-                            <a href="">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li>
-                            <a href="">About</a>
+                            <a href="about.php">About</a>
                         </li>
                         <li>
-                            <a href="">Reports</a>
+                            <a href="reports.php">Reports</a>
                         </li>
                         <li>
-                            <a href="">Services</a>
+                            <a href="services.php">Services</a>
                         </li>
                         <li>
-                            <a href="">Courses</a>
+                            <a href="course.php">Courses</a>
                         </li>
                         <li>
-                            <a href="">FAQ</a>
+                            <a href="faq.php">FAQ</a>
                         </li>
                         <li>
-                            <a href="">Certificates</a>
+                            <a href="verify-report.php">Verify Report</a>
                         </li>
                         <li>
                             <a href="">Contact</a>
@@ -54,25 +56,25 @@
                     <h5>Quick Links</h5>
                     <ul class="p-0">
                         <li>
-                            <a href="">Diamond Report</a>
+                            <a href="reports.php">Diamond Report</a>
                         </li>
                         <li>
-                            <a href="">Jewelry Reports</a>
+                            <a href="reports.php">Jewelry Reports</a>
                         </li>
                         <li>
-                            <a href="">Colored Stone Report</a>
+                            <a href="reports.php">Colored Stone Report</a>
                         </li>
                         <li>
-                            <a href="">Laser Cutting</a>
+                            <a href="services.php">Laser Cutting</a>
                         </li>
                         <li>
-                            <a href="">Screening Services</a>
+                            <a href="services.php">Screening Services</a>
                         </li>
                         <li>
-                            <a href="">Sorting Services</a>
+                            <a href="services.php">Sorting Services</a>
                         </li>
                         <li>
-                            <a href="">Security Seal</a>
+                            <a href="services.php">Security Seal</a>
                         </li>
                     </ul>
                 </div>
