@@ -42,12 +42,12 @@
                         <h2 class="banner-head text-lg-start text-center">Bright beautiful And Always Valuable</h2>
                         <p class="main-para mb-1">Its hard to be a diamond in a rhinestone world</p>
                         <div class="gap-3 d-md-flex d-none">
-                            <a href="" class="main-btn">Talk With Us</a>
-                            <a href="" class="alternate-btn">Learn More</a>
+                            <a href="contact.php" class="main-btn">Talk With Us</a>
+                            <a href="about.php" class="alternate-btn">Learn More</a>
                         </div>
                         <div class="gap-3 d-md-none d-flex">
-                            <a href="" class="main-btn">Verify Report</a>
-                            <a href="" class="alternate-btn">Talk With Us</a>
+                            <a href="verify-report.php" class="main-btn">Verify Report</a>
+                            <a href="contact.php" class="alternate-btn">Talk With Us</a>
                         </div>
                     </div>
                 </div>
