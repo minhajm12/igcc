@@ -9,6 +9,9 @@
     <!-- BOOTSTRAP CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- AOS -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
     <!-- COMMON STYLE -->
     <link rel="stylesheet" href="assets/css/style.css">
 
@@ -30,7 +33,7 @@
 
 
     <!-- INNER BANNER -->
-    <div id="inner_banner_main">
+    <div id="inner_banner_main" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="0">
         <div class="main-padding">
             <div class="banner-img-div">
                 <img src="assets/img/inner-banner/course-banner.jpg" alt="" class="img-fluid">
@@ -44,22 +47,22 @@
     <section id="course_main_section">
         <div class="main-padding">
             <div class="inner-top-section">
-                <h6 class="top-head text-lg-center text-start">Course</h6>
-                <h2 class="main-head text-md-center text-start mt-md-0 mt-1">Provided Course Details</h2>
+                <h6 class="top-head text-lg-center text-start" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="00">Course</h6>
+                <h2 class="main-head text-md-center text-start mt-md-0 mt-1" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">Provided Course Details</h2>
             </div>
             <div class="course-details-section">
                 <div class="row py-lg-5 py-md-4 py-3">
                     <div class="col-lg-6 col-12 course-image-section">
                         <div class="img-section">
-                            <div class="img-div">
+                            <div class="img-div" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="00">
                                 <img src="assets/img/course-img-1.jpg" alt="" class="img-fluid">
                             </div>
-                            <div class="img-div">
+                            <div class="img-div" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
                                 <img src="assets/img/course-img-2.jpg" alt="" class="img-fluid">
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-12 content-section">
+                    <div class="col-lg-6 col-12 content-section" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
                         <h2 class="main-head">Learn today, Lead tomorrow</h2>
                         <div class="d-flex flex-column gap-2">
                             <p class="main-para">Whether you're aiming to enhance your confidence as a buyer, deepen your expertise as a diamond grader, design exquisite jewelry, excel in sales, or become a certified Graduate Gemologist, IGI's global network of schools provides unparalleled educational opportunities. Our comprehensive curriculum covers a wide range of topics, including rough diamond grading, advanced gemstone analysis, pearl evaluations, modern treatments, and cutting-edge computer-assisted jewelry design.</p>
@@ -70,7 +73,7 @@
                 </div>
             </div>
             <div class="course-form-section mt-lg-5 mt-md-4 mt-3">
-                <div class="form-container">
+                <div class="form-container" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="00">
                     <h2 class="main-head text-center">Enquire Now For More course Details</h2>
                     <form action="">
                         <div class="row mt-lg-5 mt-md-4 mt-3">

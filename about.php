@@ -9,6 +9,9 @@
     <!-- BOOTSTRAP CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- AOS -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
     <!-- COMMON STYLE -->
     <link rel="stylesheet" href="assets/css/style.css">
 
@@ -33,7 +36,7 @@
 
 
     <!-- INNER BANNER -->
-    <div id="inner_banner_main">
+    <div id="inner_banner_main" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="0">
         <div class="main-padding">
             <div class="banner-img-div">
                 <img src="assets/img/inner-banner/about-banner.jpg" alt="" class="img-fluid">
@@ -48,17 +51,17 @@
         <div class="main-padding">
             <div class="about-content">
                 <div class="inner-top-section">
-                    <h6 class="top-head text-lg-center text-start">About Us</h6>
-                    <h2 class="main-head text-md-center text-start mt-md-0 mt-1">Angels are like diamonds. They can’t be made. You have to find them. Each one is unique.</h2>
+                    <h6 class="top-head text-lg-center text-start" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="0">About Us</h6>
+                    <h2 class="main-head text-md-center text-start mt-md-0 mt-1" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">Angels are like diamonds. They can’t be made. You have to find them. Each one is unique.</h2>
                 </div>
                 <div class="row mt-lg-5 mt-md-3 mt-3 px-lg-0 px-md-5s">
-                    <div class="col-lg-6 col-12 content-section">
+                    <div class="col-lg-6 col-12 content-section" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="0">
                         <p class="main-para">IGCC is the largest organization of its kind, with 18 laboratory locations certifying the widest variety of gemstones and jewelry in the world, and 14 schools of gemology offering the industry’s widest range of classes and diploma programs.</p>
                         <p class="main-para">IGCC has been an industry leader since 1975, introducing inscription and identification technologies, finished jewelry grading, co-branded certification, diverse scholastic programs and many other initiatives designed to improve and empower jewelry professionals.</p>
                         <p class="main-para">A total commitment to understanding consumer concerns has motivated IGCC to develop clear documentation and immersive analysis using the latest technologies. Sophisticated, yet clear and easily understood, IGCC grading reports and appraisals are recognized around the world as a global standard of excellence.</p>
                         <p class="main-para">Today IGCC is the most trusted name for thorough, objective and expert assessment of diamonds, gemstones and jewelry.</p>
                     </div>
-                    <div class="col-lg-6 col-12 image-section ps-lg-5 p-md-0 px-3 mt-lg-0 mt-md-4 mt-4">
+                    <div class="col-lg-6 col-12 image-section ps-lg-5 p-md-0 px-3 mt-lg-0 mt-md-4 mt-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
                         <div class="about-img-div">
                             <img src="assets/img/about-img.jpg" alt="" class="img-fluid">
                         </div>
@@ -74,12 +77,12 @@
     <section id="mission_and_vision">
         <div class="main-padding">
             <div class="mission-main mt-2">
-                <div class="mission-vision-div">
+                <div class="mission-vision-div" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="0">
                     <img src="assets/img/svg/mission-icon.svg" alt="" class="img-fluid">
                     <h5 class="text-center">Our Mission</h5>
                     <p class="main-para text-center">The value of a precious stone is determined by its gemological makeup, natural rarity and finished quality. Gemstones of similar appearance can have notably different values. In the modern world, even experts require specialized tools to detect treatments, enhancements and synthetics.</p>
                 </div>
-                <div class="mission-vision-div">
+                <div class="mission-vision-div" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
                     <img src="assets/img/svg/vision-icon.svg" alt="" class="img-fluid">
                     <h5 class="text-center">Our Vision</h5>
                     <p class="main-para text-center">The value of a precious stone is determined by its gemological makeup, natural rarity and finished quality. Gemstones of similar appearance can have notably different values. In the modern world, even experts require specialized tools to detect treatments, enhancements and synthetics.</p>
@@ -95,19 +98,19 @@
     <section id="about_services_section">
         <div class="main-padding">
             <div class="abt-services-main">
-                <div class="service-items service-item-1">
+                <div class="service-items service-item-1" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="0">
                     <img src="assets/img/service/service-icn-1.svg" alt="" class="img-fluid">
                     <h5 class="text-center">Diamond Report</h5>
                 </div>
-                <div class="service-items service-item-2">
+                <div class="service-items service-item-2" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
                     <img src="assets/img/service/service-icn-2.svg" alt="" class="img-fluid">
                     <h5 class="text-center">Jewelry Report</h5>
                 </div>
-                <div class="service-items service-item-3">
+                <div class="service-items service-item-3" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="400">
                     <img src="assets/img/service/service-icn-3.svg" alt="" class="img-fluid">
                     <h5 class="text-center">Colored Stone Report</h5>
                 </div>
-                <div class="service-items service-item-4">
+                <div class="service-items service-item-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="600">
                     <img src="assets/img/service/service-icn-4.svg" alt="" class="img-fluid">
                     <h5 class="text-center">Lab Grown Report</h5>
                 </div>
@@ -122,12 +125,12 @@
     <section id="grading_section">
         <div class="main-padding">
             <div class="row">
-                <div class="col-lg-6 col-12 left-section">
+                <div class="col-lg-6 col-12 left-section" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="0">
                     <div class="img-div">
                         <img src="assets/img/grading-img.jpg" alt="" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-lg-6 col-12 right-section ps-lg-5 px-3 mt-lg-0 mt-4">
+                <div class="col-lg-6 col-12 right-section ps-lg-5 px-3 mt-lg-0 mt-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
                     <h2 class="main-head">Importance Of Grading</h2>
                     <div class="content">
                         <p class="main-para">The value of a precious stone is determined by its gemological makeup, natural rarity and finished quality. Gemstones of similar appearance can have notably different values. In the modern world, even experts require specialized tools to detect treatments, enhancements and synthetics.</p>
@@ -150,15 +153,19 @@
     <!-- BRANCHES SECTION -->
     <div id="branches_main_section">
         <div class="main-padding">
-            <h2 class="main-head text-center">Our Branches</h2>
+            <h2 class="main-head text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="0">Our Branches</h2>
             <div class="branches-main">
-                <div class="branches">
-                    <h5>Mumbai Office</h5>
+                <div class="branches" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
+                    <h5 class="text-center">Mumbai Office</h5>
                     <p class="main-para text-center">112/C, Amrit Diamond House, Opera House, Mumbai-04</p>
                 </div>
-                <div class="branches">
-                    <h5>Kerala Office</h5>
+                <div class="branches" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                    <h5 class="text-center">Calicut Office</h5>
                     <p class="main-para text-center">17/1989 Z-21, AR Complex, East Kottapparamba, Calicut - 673001</p>
+                </div>
+                <div class="branches" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                    <h5 class="text-center">Thrissur Office</h5>
+                    <p class="main-para text-center">James tower, Vilyannur Ring Rd, Veliyannur, Thrissur, Kerala 680021</p>
                 </div>
             </div>
         </div>
