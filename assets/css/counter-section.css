@@ -73,7 +73,7 @@
 @media only screen and (max-width: 768px)
 {
     #counter-section-main .floating-img{
-        height: 35vh;
+        height: 20vh;
         overflow: hidden;
     }
     #counter-section-main .grow{

@@ -95,19 +95,19 @@
     <section id="about_services_section">
         <div class="main-padding">
             <div class="abt-services-main">
-                <div class="service-items">
+                <div class="service-items service-item-1">
                     <img src="assets/img/service/service-icn-1.svg" alt="" class="img-fluid">
                     <h5 class="text-center">Diamond Report</h5>
                 </div>
-                <div class="service-items">
+                <div class="service-items service-item-2">
                     <img src="assets/img/service/service-icn-2.svg" alt="" class="img-fluid">
                     <h5 class="text-center">Jewelry Report</h5>
                 </div>
-                <div class="service-items">
+                <div class="service-items service-item-3">
                     <img src="assets/img/service/service-icn-3.svg" alt="" class="img-fluid">
                     <h5 class="text-center">Colored Stone Report</h5>
                 </div>
-                <div class="service-items">
+                <div class="service-items service-item-4">
                     <img src="assets/img/service/service-icn-4.svg" alt="" class="img-fluid">
                     <h5 class="text-center">Lab Grown Report</h5>
                 </div>
@@ -145,6 +145,26 @@
     <!-- COUNTER SECTION -->
     <?php include('inc/counter-section.php'); ?>
     <!-- COUNTER SECTION END-->
+
+
+    <!-- BRANCHES SECTION -->
+    <div id="branches_main_section">
+        <div class="main-padding">
+            <h2 class="main-head text-center">Our Branches</h2>
+            <div class="branches-main">
+                <div class="branches">
+                    <h5>Mumbai Office</h5>
+                    <p class="main-para text-center">112/C, Amrit Diamond House, Opera House, Mumbai-04</p>
+                </div>
+                <div class="branches">
+                    <h5>Kerala Office</h5>
+                    <p class="main-para text-center">17/1989 Z-21, AR Complex, East Kottapparamba, Calicut - 673001</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- BRANCHES SECTION END -->
+
 
     <!-- CTA SECTION -->
     <?php include('inc/cta-section.php'); ?>
