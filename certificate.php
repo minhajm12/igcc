@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IGCC | Certificate</title>
 
+    <link rel="icon" href="assets/img/svg/igcc-favicon.svg" type="image/x-icon">
+
     <!-- BOOTSTRAP CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 

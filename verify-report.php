@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IGCC | Verify Report</title>
 
+    <link rel="icon" href="assets/img/svg/igcc-favicon.svg" type="image/x-icon">
+
     <!-- BOOTSTRAP CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -46,7 +48,7 @@
     <!-- VERIFY REPORT SECTION -->
     <section id="verify_report_main_section">
         <div class="main-padding">
-            <div class="verify-main-div"  data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
+            <div class="verify-main-div" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
                 <div class="inner-top-section">
                     <!-- <h6 class="top-head text-lg-center text-start">Reports</h6>VERIFY REPORT -->
                     <h2 class="main-head text-md-center text-start mt-md-0 mt-1">Verify Your Report</h2>
